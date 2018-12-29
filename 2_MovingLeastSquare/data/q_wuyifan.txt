@@ -1,0 +1,16 @@
+left_eye_left_corner=382,186
+left_eye_right_corner=424,193
+right_eye_left_corner=487,193
+right_eye_right_corner=532,191
+eyebrow_center=455,173
+nose_left=420,255
+nose_right=479,260
+nose_tip=447,252
+mouth_left_corner=413,302
+mouth_upper_lip_bottom=447,301
+mouth_lower_lip_bottom=447,325
+mouth_right_corner=486,306
+mouth_lower_lip_left_contour1=432,321
+mouth_lower_lip_left_contour2=421,313
+mouth_lower_lip_right_contour1=464,323
+mouth_lower_lip_right_contour2=476,316
