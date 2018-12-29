@@ -18,7 +18,7 @@
 
 ps:The data can be download from Elearning or http://www.gapminder.org.
 
-##Hw4
+## Hw4
 1 Python编程实现在二维图片上画出等值线/等高线（不能调用某个算法库里面的等值线函数）；应用：输入原始图片（如JPG、PNG格式）和显示等值线数值或数量参数，输出带有等值线/等高线的图片。备注：这题关注的是等值线的计算，而不需要平均分布的多条等高线。作业应该一个图像的灰度值（如附件的例图中），计算给定值（如C=200或0.5）计算一条等值线。
 
 2 Python编程实现灰度直方图均衡化算法（不能调用某个算法库里面的函数），并应用该算法在某个图片上，显示对比与原图的差别（提示：显示对比可以用两个图相减后的结果图，注意调节对比度范围，显示出差别）。
@@ -27,5 +27,5 @@ ps:The data can be download from Elearning or http://www.gapminder.org.
 
 阅读了解VTK（VTK - The Visualization Toolkit, www.vtk.org），练习编程在Python环境下调用VTK库编程（作业请只回答是否完成自学）。
 
-##Final PJ
+## Final PJ
 Deformation on human face
